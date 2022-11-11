@@ -1,0 +1,4 @@
+go run dither.go [infile] [outfile] [palette value (1-6)]
+
+Input file must be in the same folder as dither.go
+Output file requires .gif extension
